@@ -9,6 +9,18 @@ This project is an interactive Financial Analysis Dashboard developed using Powe
 - Balance Sheet Analysis
 - Cash Flow Analysis
 - Financial Ratios Analysis
+  
+## Dashboard Preview
+(هنا نضع الصور)
+
+### Executive Financial Dashboard
+![Executive Dashboard](Executive_Dashboard.png)
+
+### Account Analysis Dashboard
+![Account Analysis](Account_Analysis_Dashboard.png)
+
+### Financial Ratios Analysis
+![Financial Ratios](Financial_Ratios_Analysis.png)
 
 ## Key Performance Indicators (KPIs)
 - Total Assets
@@ -41,5 +53,7 @@ This project is an interactive Financial Analysis Dashboard developed using Powe
 - Cash Flow Statement
 - Financial Ratios
 
+## Author
+Mostafa Hisham
 ## Author
 *Mostafa Hisham*
