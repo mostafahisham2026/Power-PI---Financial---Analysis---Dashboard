@@ -12,17 +12,11 @@ This project is an interactive Financial Analysis Dashboard developed using Powe
   
 ## Dashboard Preview
 
-### Executive Financial Dashboard
+![Executive Financial Dashboard](Executive_Financial_Dashboard_Analysis.jpg)
 
-![Executive Financial Dashboard](Executive%20Financial%20Dashboard%20Analysis.jpg)
+![Account Analysis Dashboard](Account_Analysis_Dashboard.jpg)
 
-### Account Analysis Dashboard
-
-![Account Analysis Dashboard](Account%20Analysis%20Dashboard.jpg)
-
-### Financial Ratios Analysis
-
-![Financial Ratios Analysis](Financial%20Ratios%20Analysis.jpg)
+![Financial Ratios Analysis](Financial_Ratios_Analysis.jpg)
 
 ## Key Performance Indicators (KPIs)
 - Total Assets
