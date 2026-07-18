@@ -30,7 +30,7 @@ This project is an interactive Financial Analysis Dashboard developed using Powe
 - Balance Check
 
 ## Technologies Used
-- Power BI
+- Power PI
 - DAX
 - Microsoft Excel
 - Power Query
@@ -49,7 +49,11 @@ This project is an interactive Financial Analysis Dashboard developed using Powe
 - Cash Flow Statement
 - Financial Ratios
 
-## Author
-Mostafa Hisham
+## Key Insights
+- Analyzed financial position through Assets, Liabilities, and Equity.
+- Evaluated profitability using Gross Profit, Net Profit Margin, ROA, and ROE.
+- Monitored liquidity through Current Ratio and Quick Ratio.
+- Analyzed cash inflows and outflows to evaluate cash performance.
+- Used financial KPIs to support management decision-making.
 ## Author
 *Mostafa Hisham*
